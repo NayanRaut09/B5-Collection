@@ -12,6 +12,9 @@ public class ArrayListDemo {
 		System.out.println(list);
 		
 		
+List<Integer> al = Arrays.asList(101,202,303,404);
+		
+		System.out.println(al);
 		
 		
 		
